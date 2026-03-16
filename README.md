@@ -1,4 +1,4 @@
 # Tic-Tac-Toe
-This is my first Git Repository.
+Play with Your friends.
 <br>
 Enjoy the Game
